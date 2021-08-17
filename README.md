@@ -2,13 +2,13 @@
 
 ## ⚡ My interests:
 
-:boxing gloves: Kickboxing
+:boxing: Kickboxing
 
 :oncoming_automobile: Travel
 
 :books: Books
 
-:forest: Nature
+:herb: Nature
 
 # Some of my Github Stats
 
