@@ -4,11 +4,7 @@
 
 ### ⚡ My interests:
 
-:boxing_glove: Kickboxing
-:oncoming_automobile: Travel
-
-:books: Books
-:mountain: Nature
+:boxing_glove: Kickboxing :oncoming_automobile: Travel :books: Books :mountain: Nature
 
 # Some of my Github Stats
 
