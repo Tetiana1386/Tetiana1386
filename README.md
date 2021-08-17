@@ -2,7 +2,7 @@
 
 ## ⚡ My interests:
 
-:boxing: Kickboxing
+:boxing_gloves: Kickboxing
 
 :oncoming_automobile: Travel
 
