@@ -8,7 +8,7 @@
 
 :books: Books
 
-:herb: Nature
+:mountain: Nature
 
 # Some of my Github Stats
 
