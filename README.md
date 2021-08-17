@@ -2,12 +2,12 @@
 
 ### I'm Full Stack Developer :computer:
 
-## ⚡ My interests:
+### ⚡ My interests:
 
-⋅⋅⋅:boxing_glove: Kickboxing
+:boxing_glove: Kickboxing
 :oncoming_automobile: Travel
 
-⋅⋅⋅:books: Books
+:books: Books
 :mountain: Nature
 
 # Some of my Github Stats
