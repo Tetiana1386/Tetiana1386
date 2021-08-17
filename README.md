@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Tetiana! 
 
-### I'm Full Stack Developer :computer:
+### I'm Full Stack Developer
 
 ### ⚡ My interests:
 
