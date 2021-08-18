@@ -13,7 +13,7 @@ Welcome to my profile! I'm Tetiana, Full Stack Developer.
 
 # Some of my Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tetiana1386&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tetiana1386&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Tetiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tetiana1386&show_icons=true)](https://github.com/Tetiana1386) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tetiana1386&layout=compact)](https://github.com/Tetiana1386)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Tetiana1386)
