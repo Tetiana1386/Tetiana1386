@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/tanyashostak13@gmail.com-D14836?&logo=gmail&logoColor=white" />  <img src="https://img.shields.io/badge/Tetiana1386-100000?&logo=github&logoColor=white" />  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badg&logo=linkedin&logoColor=white" />
 
 
-Welcome to my profile! I'm Full Stack Developer.
+Welcome to my profile! I'm Tetiana, Full Stack Developer.
 
 ### ⚡ My interests:
 
