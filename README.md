@@ -30,4 +30,11 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Tetiana1386)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tetiana1386&repo=goit-react-hw-04-movies&theme=react)](https://github.com/Tetiana1386)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tetiana1386&repo=project-Filmoteka&theme=react)](https://github.com/Tetiana1386)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tetiana1386&repo=dynamic-landing-page&theme=react)](https://github.com/Tetiana1386)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tetiana1386&repo=goit-js-hw-13-image-finder&theme=react)](https://github.com/Tetiana1386)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tetiana1386&repo=goit-markup-hw-08&theme=react)](https://github.com/Tetiana1386)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tetiana1386&repo=goit-react-hw-08-phonebook&theme=react)](https://github.com/Tetiana1386)
+
 
