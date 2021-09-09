@@ -1,5 +1,6 @@
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Nice to see you here!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323CCEBF6&lines=Welcome+to+my+profile!;I'm+Tetiana,+Full+Stack+Developer.;Always+learning+new+things.&height=25)](https://git.io/typing-svg)
+
 <h2>Connect with Me</h2>
 <a href="mailto:tanyashostak13@gmail.com"><img src="https://img.shields.io/badge/tanyashostak13@gmail.com-D14836?&logo=gmail&logoColor=white" /></a><a href="https://github.com/Tetiana1386"><img src="https://img.shields.io/badge/Tetiana1386-100000?&logo=github&logoColor=white" /></a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badg&logo=linkedin&logoColor=white" />
 
