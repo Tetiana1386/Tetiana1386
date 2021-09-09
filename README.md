@@ -3,12 +3,6 @@
 
 <a href="mailto:tanyashostak13@gmail.com"><img src="https://img.shields.io/badge/tanyashostak13@gmail.com-D14836?&logo=gmail&logoColor=white" /></a>  <a href="https://github.com/Tetiana1386"><img src="https://img.shields.io/badge/Tetiana1386-100000?&logo=github&logoColor=white" /></a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badg&logo=linkedin&logoColor=white" />
 
-### ⚡ My interests:
-
-:computer: Code
-:boxing_glove: Kickboxing :oncoming_automobile: Travel :books: Books
-:mountain: Nature
-
 <h2> My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <code><img alt="HTML5" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
