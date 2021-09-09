@@ -23,7 +23,7 @@
 
 # GitHub Analytics
 <a href="https://github.com/Tetiana1386">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tetiana1386&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&width=35"/></a><a href="https://github.com/Tetiana1386"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tetiana1386&layout=compact&langs_count=4&theme=algolia&width=35"/></a>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tetiana1386&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&width=30"/></a><a href="https://github.com/Tetiana1386"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tetiana1386&layout=compact&langs_count=4&theme=algolia&width=30"/></a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Tetiana1386)
 
