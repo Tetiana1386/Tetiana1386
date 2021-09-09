@@ -21,7 +21,7 @@
 <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img alt="Visual Studio Code" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
 
-# GitHub Analytics
+## GitHub Analytics
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Tetiana1386&show_icons=true&theme=react&include_all_commits=true&count_private=true)](https://github.com/Tetiana1386)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tetiana1386&layout=compact&langs_count=8&theme=react)](https://github.com/Tetiana1386)
