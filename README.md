@@ -22,9 +22,9 @@
 <code><img alt="Visual Studio Code" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
 
 # GitHub Analytics
-
+<p align="center">
 <a href="https://github.com/Tetiana1386">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tetiana1386&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&width=35"/><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tetiana1386&layout=compact&langs_count=4&theme=algolia&width=35"/></a>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tetiana1386&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&width=35"/><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tetiana1386&layout=compact&langs_count=4&theme=algolia&width=35"/></a></p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Tetiana1386)
 
