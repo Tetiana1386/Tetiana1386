@@ -3,7 +3,7 @@
 
 <h2> Connect with Me </h2>
 
-<a href="mailto:tanyashostak13@gmail.com"><img src="https://img.shields.io/badge/tanyashostak13@gmail.com-D14836?&logo=gmail&logoColor=white" /></a> <a href="https://github.com/Tetiana1386"><img src="https://img.shields.io/badge/Tetiana1386-100000?&logo=github&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badg&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:tanyashostak13@gmail.com"><img src="https://img.shields.io/badge/tanyashostak13@gmail.com-D14836?&logo=gmail&logoColor=white" /></a> <a href="https://t.me/TetianaShostak"><img src="https://img.shields.io/badge/@TetianaShostak-2CA5E0?&logo=telegram&logoColor=white" /></a> <a href="https://github.com/Tetiana1386"><img src="https://img.shields.io/badge/Tetiana1386-100000?&logo=github&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badg&logo=linkedin&logoColor=white" /></a>
 
 <h2> My Skills</h2>
 
