@@ -31,8 +31,8 @@
 <code><a href="http://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/bootstrap/bootstrap.svg" alt="Bootstrap" height='47px' /></a></code>
 <code><a href="https://fontawesome.com/" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/font-awesome-icon.svg" alt="Awesome" height='47px' /></a></code>
 <code><a href="https://www.netlify.com/" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/netlify-icon.svg" alt="Netlify" height='47px' /></a></code>
-<code><a href="https://handlebarsjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/handlebars.svg" alt="Handlebars" height='30px' /></a></code>
-<code><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/Agile-Scrum-logo-600x300-1.png" alt="Handlebars" height='43px' /></code>
+<code><a href="https://handlebarsjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/handlebars.svg" alt="Handlebars" height='35px' /></a></code>
+<code><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/Agile-Scrum-logo-600x300-1.png" alt="Handlebars" height='47px' /></code>
 
 <h2>GitHub Analytics</h2>
 
