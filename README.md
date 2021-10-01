@@ -13,11 +13,10 @@
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/javascript/javascript.svg" alt="JS" height='45px' /></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/react/react.svg" alt="React" height='45px' /></a></code>
 <code><a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/redux/redux.svg" alt="Redux" height='45px' /></a></code>
-<code><a href="https://nodejs.org/uk/" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/node-js-icon-8.jpg" alt="Node" height='44px' /></a></code>
+<code><a href="https://nodejs.org/uk/" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/node-js-icon-8.jpg" alt="Node" height='47px' /></a></code>
 <code><a href="https://www.npmjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/npm-icon-512x512-qtfdrf37.png" alt="NPM" height='44px' /></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/git-scm/git-scm.svg" alt="Git" height='49px' /></a></code>
 <code><a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/github.svg" alt="Github" height='43px' /></a></code>
-<code><a href="https://www.gitkraken.com/" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/gitkraken.svg" alt="Gitkraken" height='44px' /></a></code>
 <code><a href="https://material-ui.com/" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/material-ui/material-ui.svg" alt="material-ui" height='45px' /></a></code>
 <code><a href="https://webpack.js.org" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/webpack/webpack.svg" alt="webpack" height='45px' /></a></code>
 <code><a href="https://parceljs.org/" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/Parcel-icon.png" alt="parcel" height='47px' /></a></code>
