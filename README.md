@@ -3,7 +3,7 @@
 
 <h2> Connect with Me </h2>
 
-<a href="mailto:tanyashostak13@gmail.com"><img src="https://img.shields.io/badge/tanyashostak13@gmail.com-D14836?&logo=gmail&logoColor=white" /></a> <a href="https://t.me/TetianaShostak"><img src="https://img.shields.io/badge/@TetianaShostak-2CA5E0?&logo=telegram&logoColor=white" /></a> <a href="https://github.com/Tetiana1386"><img src="https://img.shields.io/badge/Tetiana1386-100000?&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/tetianashostak/"><img src="https://img.shields.io/badge/linkedin/tetianashostak-0077B5?&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:tanyashostak13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/tanyashostak13@gmail.com-D14836?&logo=gmail&logoColor=white" /></a> <a href="https://t.me/TetianaShostak" target="_blank"><img src="https://img.shields.io/badge/@TetianaShostak-2CA5E0?&logo=telegram&logoColor=white" /></a> <a href="https://www.linkedin.com/in/tetianashostak/" target="_blank"><img src="https://img.shields.io/badge/linkedin/tetianashostak-0077B5?&logo=linkedin&logoColor=white" /></a>
 
 <h2> My Skills</h2>
 
@@ -34,7 +34,14 @@
 <code><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/Agile-Scrum-logo-600x300-1.png" alt="Agile" height='45px' /></code>
 
 <h2>GitHub Analytics</h2>
+<a href="https://github.com/Tetiana1386/Tetiana1386">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tetiana1386&show_icons=true&theme=react&include_all_commits=true" alt="Tetiana's GitHub Stats"/>
+</a>
+<a href="https://github.com/Tetiana1386/Tetiana1386">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tetiana1386&layout=compact&langs_count=4&line_height=25&theme=react" alt="Tetiana's GitHub Langs"/>
+</a>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Tetiana1386&show_icons=true&theme=react&include_all_commits=true&count_private=true)](https://github.com/Tetiana1386)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tetiana1386&layout=compact&langs_count=8&theme=react)](https://github.com/Tetiana1386)
+
+<!--[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Tetiana1386&show_icons=true&theme=react&include_all_commits=true&count_private=true)](https://github.com/Tetiana1386)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tetiana1386&layout=compact&langs_count=8&theme=react)](https://github.com/Tetiana1386)-->
 
