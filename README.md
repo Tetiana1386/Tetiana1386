@@ -36,7 +36,7 @@
 <img align="center" style="width:450px" style="height:350px" src="https://github-readme-stats.vercel.app/api?username=Tetiana1386&show_icons=true&theme=react&count_all_commits=true&count_private=true" alt="Tetiana's GitHub Stats"/>
 </a>
 <a href="https://github.com/Tetiana1386/Tetiana1386">
-<img align="center" style="height:50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tetiana1386&layout=compact&langs_count=8&theme=react" alt="Tetiana's GitHub Langs"/>
+<img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tetiana1386&layout=compact&langs_count=8&theme=react" alt="Tetiana's GitHub Langs"/>
 </a>
 
 
