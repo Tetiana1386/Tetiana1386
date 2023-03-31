@@ -1,5 +1,5 @@
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Nice to see you here!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323CCEBF6&lines=Welcome+to+my+profile!;I'm+Tetiana,+Full+Stack+Developer.;Always+learning+new+things.&height=25)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323CCEBF6&lines=Welcome+to+my+profile!;No+matter+how+long+you+live,+you+should+learn+all+your+life.;&height=25)](https://git.io/typing-svg)
 
 <h2> Connect with Me </h2>
 
